@@ -1,31 +1,15 @@
 NO,AGE,INCOME,STUDENT,CREDIT_RATING,CLASS
-1,18,8000000,Tidak,Baik,Tidak
-2,19,9000000,Tidak,Sangat Baik,Tidak
-3,35,9500000,Tidak,Baik,Ya
-4,52,6000000,Tidak,Baik,Ya
-5,56,3500000,Ya,Baik,Ya
-6,60,3000000,Ya,Sangat Baik,Tidak
-7,40,3200000,Ya,Sangat Baik,Ya
-8,21,5500000,Tidak,Baik,Tidak
-9,23,2500000,Ya,Baik,Ya
-10,58,5000000,Ya,Baik,Ya
-11,22,5200000,Ya,Sangat Baik,Ya
-12,39,5800000,Tidak,Sangat Baik,Ya
-13,37,9500000,Ya,Baik,Ya
-14,59,6000000,Tidak,Sangat Baik,Tidak
-15,25,7200000,Ya,Baik,Ya
-16,31,6800000,Tidak,Baik,Tidak
-17,45,7500000,Ya,Sangat Baik,Ya
-18,28,6200000,Tidak,Baik,Tidak
-19,33,8800000,Ya,Sangat Baik,Ya
-20,41,4300000,Tidak,Baik,Tidak
-21,27,5100000,Ya,Baik,Ya
-22,46,4700000,Tidak,Sangat Baik,Tidak
-23,38,7600000,Ya,Baik,Ya
-24,53,8400000,Tidak,Baik,Tidak
-25,34,9300000,Ya,Sangat Baik,Ya
-26,30,3300000,Tidak,Baik,Tidak
-27,44,4900000,Ya,Sangat Baik,Ya
-28,36,3700000,Tidak,Baik,Tidak
-29,32,4200000,Ya,Baik,Ya
-30,50,8100000,Tidak,Sangat Baik,Tidak
+1,youth,high,no,fair,no
+2,youth,high,no,excellent,no
+3,middle age,high,no,fair,yes
+4,senior,medium,no,fair,yes
+5,senior,low,yes,fair,yes
+6,senior,low,yes,excellent,no
+7,middle age,low,yes,excellent,yes
+8,youth,medium,no,fair,no
+9,youth,low,yes,fair,yes
+10,senior,medium,yes,fair,yes
+11,youth,medium,yes,excellent,yes
+12,middle age,medium,no,excellent,yes
+13,middle age,high,yes,fair,yes
+14,senior,medium,no,excellent,no
